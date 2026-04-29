@@ -25,3 +25,18 @@ SadTalker/.ipynb_checkpoints/
 SadTalker/.venv/
 SadTalker/env/
 SadTalker/venv/
+
+# Large model or output files
+SadTalker/outputs/
+SadTalker/output/
+SadTalker/logs/
+SadTalker/tmp/
+SadTalker/cache/
+SadTalker/**/*.safetensors
+SadTalker/**/*.ckpt
+SadTalker/**/*.pth
+SadTalker/**/*.pt
+SadTalker/**/*.onnx
+SadTalker/**/*.engine
+SadTalker/**/*.npz
+SadTalker/**/*.npy
