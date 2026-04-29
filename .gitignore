@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Env files
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Local avatars or user media
+avatars/
+
+# SadTalker artifacts and models
+SadTalker/checkpoints/
+SadTalker/gfpgan/weights/
+SadTalker/examples/results/
+SadTalker/results/
+SadTalker/assets/
+SadTalker/.ipynb_checkpoints/
+SadTalker/.venv/
+SadTalker/env/
+SadTalker/venv/
